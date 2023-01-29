@@ -719,37 +719,14 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
   
 
-## Guidelines
-  
-
-Refer [rules](https://github.com/Kaustubh-Natuskar/companies-to-apply/blob/main/GUIDELINES.MD)
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
-<br>  
-  
-
-
-<h2 align=center>Contributors✨</h2>
-<table>
-	<tr>
-		 <td>
-  <a href="https://github.com/Kaustubh-Natuskar/companies-to-apply/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Kaustubh-Natuskar/companies-to-apply" />
-  </a>
-		</td>
-	</tr>
-</table>
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<br>
 
 ## Feedback
 
 If you have any feedback or suggestions please reach out to maintainers.  
-* [Kaustubh Natuskar](https://www.linkedin.com/in/kaustubhnatuskar/)  
+* [Sahil Sharma](https://www.linkedin.com/in/sahil-sharma5/)  
 
 
 <div id="Bottom"></div>
